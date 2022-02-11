@@ -6,5 +6,9 @@
     <string name="hitung">Hitung</string>
     <string name="jenis_kelamin">Apa jenis kelamin Anda?</string>
     <string name="kalkulator">Kalkulator BMI (IMT)</string>
-    <string name="deskripsi">Gunakan kalkulator ini untuk memeriksa Indeks Massa Tubuh (IMT) dan mengecek apakah berat badan Anda ideal atau tidak. Anda juga dapat menggunakannya untuk memeriksa indeks massa tubuh anak.</string>
+    <string name="deskripsi">Gunakan kalkulator ini untuk memeriksa Indeks Massa Tubuh (IMT)
+        dan mengecek apakah berat badan Anda ideal atau tidak. Anda juga dapat menggunakannya
+        untuk memeriksa indeks massa tubuh anak.</string>
+    <string name="men">Laki-laki</string>
+    <string name="women">Perempuan</string>
 </resources>
