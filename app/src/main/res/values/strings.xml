@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="berapa_usia">Berapa usia Anda? (tahun)</string>
+    <string name="berapa_tinggi">Berapa tinggi Anda? (cm)</string>
+    <string name="berapa_berat">Berapa berat badan Anda? (kg)</string>
+    <string name="hitung">Hitung</string>
+    <string name="jenis_kelamin">Apa jenis kelamin Anda?</string>
+    <string name="kalkulator">Kalkulator BMI (IMT)</string>
+    <string name="deskripsi">Gunakan kalkulator ini untuk memeriksa Indeks Massa Tubuh (IMT) dan mengecek apakah berat badan Anda ideal atau tidak. Anda juga dapat menggunakannya untuk memeriksa indeks massa tubuh anak.</string>
+</resources>
