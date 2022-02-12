@@ -94,7 +94,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/button_hitung"
             android:layout_width="141dp"
             android:layout_height="44dp"
             android:layout_marginTop="20dp"
@@ -187,6 +187,16 @@
             app:layout_constraintEnd_toEndOf="@+id/button_women"
             app:layout_constraintStart_toStartOf="@+id/button_women"
             app:layout_constraintTop_toTopOf="@+id/textView8" />
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/fragment_hitung"
+            android:name="com.andre.bmicalculator.FragmentHasil"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
 

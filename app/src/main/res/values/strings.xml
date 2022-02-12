@@ -11,4 +11,8 @@
         untuk memeriksa indeks massa tubuh anak.</string>
     <string name="men">Laki-laki</string>
     <string name="women">Perempuan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bmi">BMI Anda</string>
+    <string name="skor_bmi">22</string>
+
 </resources>
