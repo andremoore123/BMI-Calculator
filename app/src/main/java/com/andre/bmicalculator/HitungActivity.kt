@@ -11,7 +11,7 @@ class HitungActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_hitung)
 
-        val button_hitung_ulang = findViewById<Button>(R.id.button_hitung_ulang)
+        val button_hitung_ulang = findViewById<Button> (R.id.button_hitung_ulang)
         val bmi_text = findViewById<TextView>(R.id.skor_bmi)
 
 
